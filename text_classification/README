@@ -1,0 +1,21 @@
+                                    TEXT Emotion Classification Project
+
+# Overview of proj
+This project aims to classify text messages into six emotion categories using deep learning techniques
+
+# Dataset
+3 DATASETS(TRAIN , VAL , TEST)
+The dataset consists of 20,000 English text messages labeled with emotions. 
+ 
+### TO RUNN THE PROJECT 
+1. open vs code
+2. simple run the train.py file 
+3. you can see the output in the Terminal itself.
+
+## Setup Instructions
+1. Clone the repo
+2. Install-> pip install -r requirements.txt
+3. Run the training script to start the model training
+
+# Approach I USED 
+The model uses LSTM layers for sequence modeling and is trained on the provided dataset to achieve competitive accuracy.
